@@ -1,4 +1,4 @@
-<img width="406" height="445" alt="image" src="https://github.com/user-attachments/assets/b9904a28-80d5-4816-9e00-f798e2925717" /># -SDUW-Course-Assistant
+-SDUW-Course-Assistant
 专为山东大学（威海）教务系统设计的智能选课辅助脚本。集成自动搜索、表格强制展开、防掉线及动态防卡死功能，解决选课按钮消失及会话过期问题。
 # 🎓 SDUW Course Assistant (山大威海选课助手)
 
