@@ -45,7 +45,7 @@
 * 登录：进入 [山东大学（威海）教务系统](http://bkzhjx.wh.sdu.edu.cn/)，并打开 **“必修选课”** 或 **“任选/限选”** 页面。
 
 ### 2. 运行脚本
-1.  在选课页面，按下键盘上的 **`F12`** 键（或右键 -> 检查）。
+1.  在选课页面找到自己要抢的课程，按下键盘上的 **`F12`** 键（或右键 -> 检查）。
 2.  点击 **“控制台” (Console)** 标签页。
 3.  在顶部点击**top**选择**selectTable()getBxxkxx**按钮
 <img width="406" height="445" alt="image" src="https://github.com/user-attachments/assets/cd88842c-524c-44e0-a71c-b2b9cf253d33" />
