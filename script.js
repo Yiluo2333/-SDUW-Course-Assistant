@@ -10,9 +10,9 @@
     // ============================
     // 1. 交互配置
     // ============================
-    const inputId = prompt("请输入课程编号 (如 sd116100A0):", "26318050");
+    const inputId = prompt("请输入课程编号 (如 sd116100A0):", "sd116100A0");
     if (!inputId) return;
-    const inputSeq = prompt("请输入课序号 (如 301):", "902");
+    const inputSeq = prompt("请输入课序号 (如 301):", "301");
     if (!inputSeq) return;
     
     const inputInterval = prompt("请输入点击间隔 (毫秒) [建议: 1500]:", "1500");
